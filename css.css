@@ -28,6 +28,14 @@ div {
 	flex-grow: 1;
 }
 
+#left{
+	width: 80%;
+}
+
+#right{
+	width: 20%;
+}
+
 a {
 	color: blue;
 	border-radius: 100px;
