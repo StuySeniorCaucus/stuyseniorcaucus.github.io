@@ -38,4 +38,9 @@ a {
 	padding: 2px;
 	text-decoration: none;
 	padding: 5px;
+	margin: 1px;
+}
+
+a:hover {
+	background-color: lightblue;
 }
