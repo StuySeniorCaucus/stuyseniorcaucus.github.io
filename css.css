@@ -4,7 +4,8 @@
 	font-family: "Overpass", sans-serif;
 }
 
-h1, h2 {
+
+h1, h2, h3 {
 	text-align: center;
 }
 h1 {
@@ -13,10 +14,23 @@ h1 {
 h2 {
 	font-size: 24pt;
 }
+h3 {
+	font-size: 20pt;
+}
+h4 {
+	font-size: 18pt;
+}
 div {
 	font-size: 16pt;
 }
-
+body {
+	background:	#DCDCDC;
+}
+hr {
+    position: relative;
+    height: 2px;
+    background: black;
+}
 #container {
 	max-width: 60em;
 	margin: auto;
@@ -37,14 +51,15 @@ div {
 }
 
 a {
-	color: blue;
+	background-color: #BEBEBE;
 	border-radius: 100px;
-	border: 2px solid blue;
+	border: 2px solid black;
 	text-align: center;
 	width: 100%;
 	display: inline-block;
 	padding: 2px;
 	text-decoration: none;
+	color:black;
 	padding: 5px;
 	margin: 1px;
 }
