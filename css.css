@@ -27,9 +27,9 @@ body {
 	background:	#DCDCDC;
 }
 hr {
-    position: relative;
-    height: 2px;
-    background: black;
+	position: relative;
+	height: 2px;
+	background: black;
 }
 #container {
 	max-width: 60em;
