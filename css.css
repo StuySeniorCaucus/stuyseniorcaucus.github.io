@@ -59,8 +59,8 @@ hr {
 #left {
 	width: 20vw;
 	flex-grow: 9999;
-	padding-left: 1vw;
-	padding-right: 1vw;
+	padding-left: 2vw;
+	padding-right: 2vw;
 }
 
 a {
